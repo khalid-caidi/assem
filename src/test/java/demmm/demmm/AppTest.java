@@ -33,11 +33,11 @@ public class AppTest
      */
     public void testAoom()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
     public void teee()
     {
-        assertTrue( true );
+        assertTrue( false);
     }
     
 }
