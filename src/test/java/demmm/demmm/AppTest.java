@@ -31,8 +31,13 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void testAoom()
     {
         assertTrue( true );
     }
+    public void tst2()
+    {
+        assertTrue( true );
+    }
+    
 }
