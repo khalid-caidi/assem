@@ -37,7 +37,7 @@ public class AppTest
     }
     public void tst2()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
     
 }
